@@ -1,0 +1,6 @@
+path: C:\Users\Stagiaire\Desktop\FORT-tryout\FORT_tryout\Meeting1_organise
+train: images/train
+val: images/val
+
+names:
+  0: person
