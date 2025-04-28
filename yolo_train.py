@@ -7,8 +7,9 @@ def main():
         epochs=30,
         imgsz=416,
         batch=2,
+        device='cpu',  # 👈 safe and stable for now
         workers=0,
-        name='yolo_run'
+        name='yolo_cpu_run'
     )
 
 if __name__ == "__main__":
