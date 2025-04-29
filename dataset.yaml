@@ -1,4 +1,4 @@
-path: C:\Users\Stagiaire\Desktop\FORT-tryout\FORT_tryout\Meeting1_organise
+path: /content/YOLO_DETECTION/FORT_tryout/Meeting1_organise
 train: images/train
 val: images/val
 
